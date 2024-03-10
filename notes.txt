@@ -1,0 +1,25 @@
+What is Object-Oriented Programing?
+->It is a programing paradigm for designing and organizing code, easy to explore, easy to maintain
+memory efficient clean and understandable code
+
+why use it instead of others?
+->mostly and widely used programing paradigm for large Project
+
+how object-oriented programming structure in programming?
+->class Object method attributes/properties
+
+CLASS
+->Classes are the blueprint
+
+Four Pillars of OOP
+->Abstraction
+ -->hide something for simplicity. Hide some that are not necessary for a project.Show
+  -->something needed for a project. Abstraction in OOPS is used to hide unnecessary
+  -->information and display only necessary information to the users interacting.
+->Inheritance
+ --> Child class will take matching properties and value from parent class
+->Polymorphism
+ --> refers to the ability of a variable, function or object to take on multiple forms.
+->Encapsulation
+ -->
+
